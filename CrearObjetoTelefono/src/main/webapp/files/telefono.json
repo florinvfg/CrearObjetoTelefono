@@ -1,0 +1,40 @@
+{
+  "telefonos": [
+    {
+      "Name": "Xiaomi",
+      "CPU": "Snapdragon 888",
+      "RAM": "8 GB",
+      "Almacenamiento": "128 GB",
+      "Ancho": "6.5 pulgadas",
+      "Alto": "160 mm",
+      "numCamaras": 3
+    },
+    {
+      "Name": "Ifone",
+      "CPU": "A14 Bionic",
+      "RAM": "6 GB",
+      "Almacenamiento": "256 GB",
+      "Ancho": "6.1 pulgadas",
+      "Alto": "146.7 mm",
+      "numCamaras": 2
+    },
+    {
+      "Name": "Samsung",
+      "CPU": "Exynos 2100",
+      "RAM": "12 GB",
+      "Almacenamiento": "512 GB",
+      "Ancho": "6.8 pulgadas",
+      "Alto": "164.0 mm",
+      "numCamaras": 4
+    },
+    {
+      "Name": "Oppo",
+      "CPU": "Qualcomm Snapdragon 765G",
+      "RAM": "6 GB",
+      "Almacenamiento": "128 GB",
+      "Ancho": "6.7 pulgadas",
+      "Alto": "163.9 mm",
+      "numCamaras": 3
+    }
+  ]
+}
