@@ -14,11 +14,19 @@
     <title>Teléfonos Móviles</title>
     <script src="js/telefono.js"></script>
     <style>
+        body {
+            background-color: #f0f0f0; /* Color de fondo para toda la página */
+            font-family: Arial, sans-serif;
+            margin: 0; /* Eliminar márgenes predeterminados del cuerpo */
+            padding: 0; /* Eliminar relleno predeterminado del cuerpo */
+        }
+
         .telefono {
             border: 1px solid #000;
             padding: 10px;
             margin: 10px 0;
             color: #172ebd;
+            background-color: #aab3ee; /* Color de fondo para los elementos .telefono */
         }
     </style>
 </head>
@@ -27,3 +35,4 @@
 <div id="info-telefono"></div>
 </body>
 </html>
+
