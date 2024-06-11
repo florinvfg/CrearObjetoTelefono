@@ -15,7 +15,7 @@
     <script src="js/telefono.js"></script>
     <style>
         body {
-            background-color: #f0f0f0; /* Color de fondo para toda la página */
+            background-color: #afbcd7; /* Color de fondo para toda la página */
             font-family: Arial, sans-serif;
             margin: 0; /* Eliminar márgenes predeterminados del cuerpo */
             padding: 0; /* Eliminar relleno predeterminado del cuerpo */
@@ -26,12 +26,12 @@
             padding: 10px;
             margin: 10px 0;
             color: #172ebd;
-            background-color: #aab3ee; /* Color de fondo para los elementos .telefono */
+            background-color: #ffffff; /* Color de fondo para los elementos .telefono */
         }
     </style>
 </head>
 <body>
-<h1>Información de Teléfonos Móviles en Formato JSON</h1>
+<h1 class="telefono" >Información de Teléfonos Móviles en Formato JSON </h1>
 <div id="info-telefono"></div>
 </body>
 </html>
